@@ -1,4 +1,4 @@
-# ** 3D Reconstruction Using Stereo Disparity**
+# 3D Reconstruction Using Stereo Disparity
 You will learn about 3D reconstruction using stereo vision. You’ll perform stereo rectification, stereo matching, disparity calculation, and 3D point cloud generation. Each section contains theoretical background and code outlines with function placeholders, along with hints on OpenCV functions to use.
 
 I am uploading three datasets:
